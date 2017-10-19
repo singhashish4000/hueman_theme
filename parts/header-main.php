@@ -58,6 +58,7 @@
                       <?php endif; ?>
                   </div>
 
+<<<<<<< HEAD
                   <div style="width: 20%;float: right;color:white">
                   <div style="padding: 10px;margin: 5px">
                   <a href="Sign-up.php"><input  type="button" name="" value="Sign-up" style="border-radius: 10px;padding: 5px;cursor: pointer;"></a> or
@@ -65,6 +66,8 @@
                   </div>
                   </div>
 
+=======
+>>>>>>> c80bacc7110e36329e162dd604811ba181462a85
                   <?php if ( hu_is_checked('header-ads') ) : ?>
                       <div id="header-widgets">
                           <?php hu_print_widgets_in_location( 'header-ads' ); ?>
